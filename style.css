@@ -11,18 +11,16 @@ body {
 }
 
 .topnav a {
-  color: #c7c7c7;
+  color: #a0a0a0;
   text-align: center;
   text-decoration: none;
   font-size: 16px;
 }
 
 .topnav a:hover {
-  background-color: #04AA6D;
-  color: black;
+  color: rgb(1, 77, 19);
 }
 
 .topnav a.active {
-  background-color: #000;
-  color: white;
+  color: #000000;
 }
