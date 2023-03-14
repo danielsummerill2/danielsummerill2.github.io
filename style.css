@@ -1,18 +1,13 @@
 body {
-  margin left: 50px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-header {
   margin-left: 100px;
   margin-right: 100px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .topnav {
   overflow: hidden;
   background-color: #fff;
   width:100%;
-  padding:100px;
 }
 
 .topnav a {
