@@ -11,22 +11,22 @@ body {
 }
 
 .topnav a {
-  color: #f2f2f2;
+  color: #c7c7c7;
   text-align: center;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 16px;
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #04AA6D;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #000;
   color: white;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 16px;
 }
